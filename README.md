@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+- Open IRB/Pry
+- require 'big_eyed_al'
+- create a class Alex and include the module BigEyedAl
+- create an instance of Alex
+- run the method 'said' on the instance along with a statement or question as an argument
+
 
 ## Contributing
 
