@@ -1,6 +1,6 @@
 # BigEyedAl
 
-TODO: Write a gem description
+A gem that prints out a different phrase depending on the string passed.
 
 ## Installation
 

@@ -1,3 +1,3 @@
-module BigEyedAl
-  VERSION = "0.0.2"
+class BigEyedAl
+  VERSION = "0.1.0"
 end
